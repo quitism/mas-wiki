@@ -2,8 +2,8 @@
 title: Models
 description: Allows you to automate your server
 published: true
-date: 2026-03-11T09:40:27.681Z
-tags: 
+date: 2026-03-11T09:42:42.994Z
+tags: logic
 editor: markdown
 dateCreated: 2026-03-11T09:40:27.681Z
 ---
