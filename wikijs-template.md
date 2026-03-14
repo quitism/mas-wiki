@@ -2,7 +2,7 @@
 title: Template (for theming purposes)
 description: 
 published: true
-date: 2026-03-14T09:31:55.092Z
+date: 2026-03-14T09:36:20.079Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-14T09:31:55.092Z
@@ -19,7 +19,7 @@ dateCreated: 2026-03-14T09:31:55.092Z
 
 ## basic styling
 this is **bold**, this is *italic*, and this is ~~strikethrough~~.
-you can also do **_combined emphasis_** if you're feeling fancy.
+you can also do ***combined emphasis*** if you're feeling fancy.
 need a line break?  
 two spaces at the end of a line does the trick.
 
@@ -52,17 +52,17 @@ two spaces at the end of a line does the trick.
 
 wiki.js lets you style these using classes:
 
-{.is-info}
 > **info alert**: use this for general helpful tips.
+{.is-info}
 
-{.is-success}
 > **success alert**: everything is going great!
+{.is-success}
 
-{.is-warning}
 > **warning alert**: better watch out for this.
+{.is-warning}
 
-{.is-danger}
 > **danger alert**: critical error or stop right there.
+{.is-danger}
 
 ---
 
